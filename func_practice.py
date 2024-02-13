@@ -33,11 +33,11 @@ print(mult_list(numbers))
 
 #this would be the absolute best way to do it with a built in function
 # BUT i think you want us to write the function
-original_string = "Hello, World!"
+'''original_string = "Hello, World!"
 reversed_string = ''.join(reversed(original_string))
 
 print("Original string:", original_string)
-print("Reversed string:", reversed_string)
+print("Reversed string:", reversed_string)'''
 
 #an iterative approach would be best in this case also
 
